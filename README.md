@@ -4,8 +4,6 @@ Este repositório contém todos os projetos desenvolvidos durante o Bootcamp Dio
 
 ## Projetos
 
-
-
 ## 1. Abstraindo um Bootcamp Usando Orientação a Objetos em Java
 **Descrição do projeto:** Este projeto visa modelar a estrutura de um bootcamp utilizando os princípios da orientação a objetos em Java. Ele abrange a criação de classes para representar participantes, instrutores e cursos, além de implementar funcionalidades para inscrição, geração de certificados e gerenciamento de progresso dos alunos. Através deste projeto, foram aplicados conceitos como encapsulamento, herança e polimorfismo.
 
@@ -24,4 +22,6 @@ Este repositório contém todos os projetos desenvolvidos durante o Bootcamp Dio
 ## Conclusão
 Participar do bootcamp Claro - Java com Spring Boot foi uma experiência enriquecedora e transformadora. Ao longo do curso, tive a oportunidade de aplicar conceitos teóricos em projetos práticos que não apenas consolidaram meu aprendizado, mas também me permitiram desenvolver habilidades essenciais para o mercado de trabalho. A troca de experiências com instrutores e colegas foi fundamental para a construção de uma rede de contatos e para a motivação de continuar evoluindo na área de programação. Estou animado para aplicar tudo o que aprendi em projetos futuros e desafios na minha carreira.
 
-![Certificado](certificado.png)
+<p align="center">
+    <img src="certificado.png" alt="Certificado">
+</p>
